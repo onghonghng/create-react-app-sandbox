@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/create-react-app-sandbox/static/css/main.073c9b0a.css",
+    "main.js": "/create-react-app-sandbox/static/js/main.46a4ac2c.js",
+    "static/js/787.d3a85387.chunk.js": "/create-react-app-sandbox/static/js/787.d3a85387.chunk.js",
+    "static/media/logo.svg": "/create-react-app-sandbox/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/create-react-app-sandbox/index.html",
+    "main.073c9b0a.css.map": "/create-react-app-sandbox/static/css/main.073c9b0a.css.map",
+    "main.46a4ac2c.js.map": "/create-react-app-sandbox/static/js/main.46a4ac2c.js.map",
+    "787.d3a85387.chunk.js.map": "/create-react-app-sandbox/static/js/787.d3a85387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.46a4ac2c.js"
+  ]
+}
